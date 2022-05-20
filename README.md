@@ -8,3 +8,7 @@ Os seguintes sensores são necessários:
 
 
 
+![Visão Geral](Trabalho.png)
+
+
+Esta imagem representa uma sala de uma residencia com os sensores e atuadores do ambiente.
